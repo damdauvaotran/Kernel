@@ -5,5 +5,9 @@
 *.o
 *.ko.cmd
 *.o.cmd
+*.mode
+*.mod.cmd
+*.mod.c
+*.mod
 Module.symvers
 modules.order
